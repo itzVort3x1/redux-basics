@@ -1,1 +1,1 @@
-### A basic react project that demonstrates redux in class based components
+### A basic react project that demonstrates redux in class based components.
